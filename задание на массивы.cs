@@ -19,7 +19,7 @@ class HelloWorld {
       if (a[i]%2 == 0)
       k++;
       
-    Console.WriteLine("Кол-во чётных значений ="+ k);
+    Console.WriteLine("Кол-во чётных значений = "+ k);
     Console.ReadKey();
     
   }
